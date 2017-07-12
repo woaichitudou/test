@@ -271,6 +271,7 @@ body{
     text-indent: 1rem;
     line-height: 20px;
     outline:none;
+    border-radius: 0;
     -webkit-appearance:none;
     resize:none;
 }
