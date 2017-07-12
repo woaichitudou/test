@@ -369,10 +369,14 @@ body{
     line-height: 2.5rem;
     font-size: 0.9rem;
     color: #000000;
+
 }
 .money i{
-    font-size: 0.8rem;
+    width: 30px;
+    text-align: center;;
+    font-size: 0.9rem;
     color: #f8a521;
+    display: inline-block;
 }
 .money span{
     font-size: 0.9rem;
