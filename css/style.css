@@ -226,18 +226,18 @@ body{
 }
 .form-box{
     width: 100%;
-    margin:10px 0;
+    margin:15px 0;
     overflow: hidden;
 }
 .form-box label{
-    font-size: 0.8rem;
+    font-size: 1rem;
     color: #4b4b4b;
     float: left;
-    line-height: 1.2rem;
+    line-height: 1.6rem;
 }
 .form-box input{
-    width: 85%;
-    height:1.2rem;
+    width: 82%;
+    height:1.4rem;
     border: none;
     line-height: 20px;
     border: 1px solid #ccc;
@@ -257,8 +257,9 @@ body{
     float: left;
     color: #4b4b4b;
     background: #e9e9e9;
-    margin-left: 2%;
+    margin-left: ;
     padding: 0 2%;
+    margin:5px 1%;
 }
 .atv{
     background: #f20090!important;
@@ -271,13 +272,13 @@ body{
     text-indent: 1rem;
     line-height: 20px;
     outline:none;
-    webkit-appearance :none;
+    -webkit-appearance:none;
     resize:none;
 }
 .form-box button{
     margin:0 auto;
     display: block;
-    webkit-appearance :none;
+    -webkit-appearance :none;
     width: 25%;
     height: 1.6rem;
     border: none;
