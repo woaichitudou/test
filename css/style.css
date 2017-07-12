@@ -233,19 +233,20 @@ body{
     font-size: 1rem;
     color: #4b4b4b;
     float: left;
-    line-height: 1.6rem;
+    line-height: 2rem;
 }
 .form-box input{
     width: 82%;
-    height:1.4rem;
+    height:1.8rem;
     border: none;
-    line-height: 20px;
+    line-height:1.8rem;
     border: 1px solid #ccc;
     border-radius: 0;
     text-indent: 1rem;
     -webkit-appearance:none;
-    font-size: 0.6rem;
+    font-size: 1rem;
     float: left;
+    color: #333;
     margin-left: 2%;
     outline:none;
     resize:none;
@@ -253,11 +254,11 @@ body{
 .form-box span{
     font-size: 0.8rem;
     display: block;
-    line-height: 1.2rem;
+    line-height: 1.6rem;
     float: left;
     color: #4b4b4b;
     background: #e9e9e9;
-    padding: 0 1%;
+    padding: 0 3%;
     margin:5px 1%;
 }
 .atv{
@@ -265,6 +266,7 @@ body{
     color: #fff!important;
 }
 .form-box textarea{
+     font-size: 1rem;
     width: 80%;
     margin-left: 2%;
     resize:none;
@@ -281,8 +283,8 @@ body{
     margin:0 auto;
     display: block;
     -webkit-appearance :none;
-    width: 25%;
-    height: 1.6rem;
+    width: 30%;
+    height: 2rem;
     border: none;
     background: #f20090;
     color: #fff;
@@ -366,9 +368,9 @@ body{
     width: 90%;
     margin:0 auto;
     border-bottom: 1px solid #ebebeb;
-    line-height: 2.5rem;
-    font-size: 0.9rem;
-    color: #000000;
+    line-height: 2.8rem;
+    font-size: 1rem;
+    color: #333;
 
 }
 .money i{
