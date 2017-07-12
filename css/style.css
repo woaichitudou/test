@@ -247,6 +247,8 @@ body{
     font-size: 0.6rem;
     float: left;
     margin-left: 2%;
+    outline:none;
+    resize:none;
 }
 .form-box span{
     font-size: 0.8rem;
@@ -269,12 +271,13 @@ body{
     text-indent: 1rem;
     line-height: 20px;
     outline:none;
-    resize:none
+    webkit-appearance :none;
+    resize:none;
 }
 .form-box button{
     margin:0 auto;
     display: block;
-    webkit-appearance :none ;
+    webkit-appearance :none;
     width: 25%;
     height: 1.6rem;
     border: none;
