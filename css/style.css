@@ -58,7 +58,7 @@ body{
     height: 14px;
 }
 .nav-box form{
-    margin:10px auto;
+    margin:9px auto;
     overflow: hidden;
 }
 .nav-box form input{
@@ -88,13 +88,13 @@ body{
     margin:0 auto;
     margin-top: 60px;
     overflow: hidden;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 .video-box{
     border-radius: 15px;
     overflow: hidden;
     position: relative;
-    height: 11rem;
+    height: 12rem;
     margin-top: 10px;
 }
 
@@ -161,7 +161,7 @@ body{
 }
 .footer{
     width: 100%;
-    height: 50px;
+    height: 55px;
     border-top: 1px solid #edefee;
     background: #fff;
     position: fixed;
