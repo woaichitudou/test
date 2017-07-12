@@ -272,6 +272,8 @@ body{
     line-height: 20px;
     outline:none;
     border-radius: 0;
+    border: none;
+    border: 1px solid #ccc;
     -webkit-appearance:none;
     resize:none;
 }
