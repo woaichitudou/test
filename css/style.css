@@ -88,7 +88,7 @@ body{
     margin:0 auto;
     margin-top: 60px;
     overflow: hidden;
-    margin-bottom: 60px;
+    padding-bottom: 60px;
 }
 .video-box{
     border-radius: 15px;
