@@ -357,7 +357,7 @@ body{
     border-left: 3px solid #f3028f;
     width: 100%;
     line-height: 1.8rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin-top: 10px;
     font-weight: 550;
     text-indent: 0.5rem;
@@ -367,7 +367,7 @@ body{
     margin:0 auto;
     border-bottom: 1px solid #ebebeb;
     line-height: 2rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     color: #000000;
 }
 .money i{
@@ -375,7 +375,7 @@ body{
     color: #f8a521;
 }
 .money span{
-    font-size: 0.8rem;
+    font-size: 1rem;
     color: #f1008e;
 }
 .tixian{
