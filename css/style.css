@@ -398,3 +398,83 @@ body{
 .topz{
     padding-bottom: 65px!important;
 }
+.hotnav{
+    width: 100%;
+    height: 36px;
+    background: #f20090;
+    color: #fff;
+}
+.hotnav-box{
+    width: 90%;
+    height: 36px;
+    margin:0 auto;
+    display: -webkit-flex;
+    display: flex;
+}
+.hotnav-box>span{
+    flex:1;
+    display: block;
+    line-height: 36px;
+    text-align: center;
+    font-size: 1rem;
+}
+.atc{
+    color: #ffeb7c!important;
+}
+.vid{
+    width: 48%;
+    height: 8.6rem;
+    float: left;
+    margin-top: 15px;
+    position: relative;
+}
+.ml{
+    margin-left: 2%;
+}
+.vid>img{
+    width: 100%;
+    height: 80%;
+    position: absolute;
+    border-radius: 5px;
+}
+.time{
+    font-size: 0.4rem;
+    position: absolute;
+    z-index: 3;
+    color: #fff;
+    top: 70%;
+    left: 5%;
+}
+.names{
+    font-size: 0.4rem;
+    bottom:4%;
+    position: absolute;
+    z-index: 3;
+    color: #4b4b4b;
+
+
+}
+.titles{
+    font-size: 0.4rem;
+    z-index: 3;
+    color: #4b4b4b;
+    bottom:4%;
+    position: absolute;
+    left: 2rem;
+}
+.vid>i{
+    font-size: 0.4rem;
+    z-index: 3;
+    color: #4b4b4b;
+    bottom:4%;
+    position: absolute;
+    right: 2.2rem;
+}
+.futer{
+    font-size: 0.4rem;
+    z-index: 3;
+    color: #4b4b4b;
+    bottom:4%;
+    position: absolute;
+    right: 0.5rem;
+}
