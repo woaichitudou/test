@@ -438,7 +438,7 @@ body{
     border-radius: 5px;
 }
 .time{
-    font-size: 0.4rem;
+    font-size: 0.8rem;
     position: absolute;
     z-index: 3;
     color: #fff;
@@ -446,7 +446,7 @@ body{
     left: 5%;
 }
 .names{
-    font-size: 0.4rem;
+    font-size: 0.8rem;
     bottom:4%;
     position: absolute;
     z-index: 3;
@@ -455,7 +455,7 @@ body{
 
 }
 .titles{
-    font-size: 0.4rem;
+    font-size: 0.8rem;
     z-index: 3;
     color: #4b4b4b;
     bottom:4%;
@@ -463,7 +463,7 @@ body{
     left: 2rem;
 }
 .vid>i{
-    font-size: 0.4rem;
+    font-size: 0.8rem;
     z-index: 3;
     color: #4b4b4b;
     bottom:4%;
@@ -471,7 +471,7 @@ body{
     right: 2.2rem;
 }
 .futer{
-    font-size: 0.4rem;
+    font-size: 0.8rem;
     z-index: 3;
     color: #4b4b4b;
     bottom:4%;
